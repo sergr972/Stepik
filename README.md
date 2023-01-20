@@ -1,2 +1,2 @@
-# Java.stepik
+# Stepik
  
